@@ -18,7 +18,8 @@
 
 &nbsp;
 
-<img src="https://avatars.githubusercontent.com/u/179302970?s=400&u=4968a90b469ffd5e6d8d8abd18e41460f01adb45&v=4" alt="나樂" width="200" />
+
+<img src="https://github.com/user-attachments/assets/c33c0a5b-d535-48d0-984a-3a5fe9b0fa64" alt="나樂" width="200" />
 
 &nbsp;
 
