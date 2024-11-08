@@ -4,7 +4,7 @@
 
 &nbsp;
 
-![극락](https://avatars.githubusercontent.com/u/179302970?s=400&u=4968a90b469ffd5e6d8d8abd18e41460f01adb45&v=4)
+<img src="https://avatars.githubusercontent.com/u/179302970?s=400&u=7ebdeefa67088a11dafe8ad10cb793c8c0edca24&v=4" alt="극樂" width="200" />
 
 &nbsp;
 
@@ -16,7 +16,7 @@
 
 &nbsp;
 
-![나락](https://avatars.githubusercontent.com/u/179302970?s=400&u=4968a90b469ffd5e6d8d8abd18e41460f01adb45&v=4)
+<img src="https://avatars.githubusercontent.com/u/179302970?s=400&u=4968a90b469ffd5e6d8d8abd18e41460f01adb45&v=4" alt="나樂" width="200" />
 
 &nbsp;
 
