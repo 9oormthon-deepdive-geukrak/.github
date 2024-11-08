@@ -10,6 +10,8 @@
 
 [**북 스터디 - 쏙쏙 들어오는 함수형 코딩**](https://github.com/9oormthon-deepdive-narak/grokking-simplicity)
 
+&nbsp;
+
 ### 구름톤 DEEP DIVE 프론트엔드 개발자 과정 1차 스터디 - 나樂
 
 &nbsp;
