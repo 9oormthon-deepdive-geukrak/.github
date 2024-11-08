@@ -8,6 +8,8 @@
 
 &nbsp;
 
+[**알고리즘 스터디**](https://github.com/9oormthon-deepdive-narak/algo-2)  
+[**CS 면접 스터디**](https://github.com/9oormthon-deepdive-narak/interview-2)  
 [**북 스터디 - 쏙쏙 들어오는 함수형 코딩**](https://github.com/9oormthon-deepdive-narak/grokking-simplicity)
 
 &nbsp;
